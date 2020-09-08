@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WebCourse.Bajurov.Lab 1-2", "ITMO.WebCourse.Bajurov.RSVP\ITMO.WebCourse.Bajurov.Lab 1-2.csproj", "{FFAA753F-9A82-4A86-A347-D73DC34512C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1-2", "Lab1-2\Lab1-2.csproj", "{FFAA753F-9A82-4A86-A347-D73DC34512C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WebCourse.Bajurov.Lab 3-4", "ITMO.WebCourse_2.RSVP\ITMO.WebCourse.Bajurov.Lab 3-4.csproj", "{95E99C91-C31E-4CD9-B803-93E64A5B6DEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3-4", "Lab3-4\Lab3-4.csproj", "{95E99C91-C31E-4CD9-B803-93E64A5B6DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5", "Lab5\Lab5.csproj", "{1D568040-2245-4527-AEA7-673CF5958BA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7-8", "Lab7-8\Lab7-8.csproj", "{91278D9E-8EBB-478C-A872-2978D8957A1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{95E99C91-C31E-4CD9-B803-93E64A5B6DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95E99C91-C31E-4CD9-B803-93E64A5B6DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95E99C91-C31E-4CD9-B803-93E64A5B6DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D568040-2245-4527-AEA7-673CF5958BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D568040-2245-4527-AEA7-673CF5958BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D568040-2245-4527-AEA7-673CF5958BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D568040-2245-4527-AEA7-673CF5958BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91278D9E-8EBB-478C-A872-2978D8957A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91278D9E-8EBB-478C-A872-2978D8957A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91278D9E-8EBB-478C-A872-2978D8957A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91278D9E-8EBB-478C-A872-2978D8957A1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
