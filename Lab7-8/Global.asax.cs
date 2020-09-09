@@ -11,6 +11,11 @@ namespace ITMO.WebCourse.Bajurov.RSVP
     {
         protected void Application_Start(object sender, EventArgs e)
         {
+            Application["Visitors"] = 0;
+        }
+        void Session_Start(object sender, EventArgs e)
+        { 
+            Application["Visitors"] = long.Parse(Application["Visitors"].ToString()) + 1; 
         }
     }
 }
